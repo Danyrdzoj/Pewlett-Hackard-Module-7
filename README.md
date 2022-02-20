@@ -24,6 +24,10 @@ The goal of this project was to act as a Human Resources Analyst in order to det
 - - There are 29,414 Senior Engineers, 28,254 Senior Staff, 14,222 Engineers, 12,243 Staff, 4,502 Technique Leaders, 1,761 Assistant Engineers, and 2 Managers among those leaving.
 - - Created the mentorship eligibility table by joining the tables employees, department employees, and titles. In this case, the criterion for joining was that the employees were born in 1965 and were currently employed at PH in order to be eligible for the retiring/mentorship package. There were 1,549 employees who qualified.
 - - There are 402 Engineers, 392 Senior Staff, 332 Staff, 290 Senior Engineers, 77 Technique Leaders, and 56 Assistant Engineers among the eligible employees.
+- 
+![Image](Module7.png?raw=true)
+![Image](Module7_2.png?raw=true)
+![Image](Module7_3.png?raw=true)
 
 
 ## Summary
